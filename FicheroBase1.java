@@ -6,6 +6,6 @@ public class FicheroBase1{
         System.out.println("FicheroBase1");
     }
 }
-//un comentario de locos
+//un comentario de Daniel
 //otro comment pa confirmar
 
