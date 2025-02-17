@@ -5,6 +5,7 @@
 public class FicheroBase1{
     public static void main(String[] args) {
         System.out.println("FicheroBase1");
+        System.out.println("hola");
     }
 }
 //un comentario de Daniel
