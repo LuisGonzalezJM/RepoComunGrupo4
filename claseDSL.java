@@ -1,3 +1,3 @@
 public class claseDSL {
-    //Daniel San Miguel Lopez//
+    //Daniel San Miguel Lopez
 }
