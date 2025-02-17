@@ -7,5 +7,5 @@ public class FicheroBase1{
     }
 }
 //un comentario de locos
-//otro comment pa confirma
+//otro comment pa confirmar
 
